@@ -494,8 +494,8 @@
 }
 
 .project-head {
-  height: 40vh;
-  width: 500px;
+  height: 45vh;
+  width: 530px;
   background: rgba(255, 255, 255, 0.05);
   backdrop-filter: blur(10px);
   box-shadow: 0 8px 32px rgba(21, 82, 133, 0.356);
